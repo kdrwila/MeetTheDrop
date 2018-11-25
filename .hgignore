@@ -1,0 +1,5 @@
+syntax: glob
+drop.apk
+Library/ScriptAssemblies/CompilationCompleted.txt
+drop-wip.rar
+UnityPlayer_Symbols.pdb
